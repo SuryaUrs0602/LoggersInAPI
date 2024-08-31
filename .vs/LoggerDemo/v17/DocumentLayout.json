@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\surya.c.urs\\source\\repos\\LoggerDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C99DCCA-F225-4FFD-B881-78B4F586CA43}|SLoggerDemo\\SLoggerDemo.csproj|c:\\users\\surya.c.urs\\source\\repos\\loggerdemo\\sloggerdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C99DCCA-F225-4FFD-B881-78B4F586CA43}|SLoggerDemo\\SLoggerDemo.csproj|solutionrelative:sloggerdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C99DCCA-F225-4FFD-B881-78B4F586CA43}|SLoggerDemo\\SLoggerDemo.csproj|c:\\users\\surya.c.urs\\source\\repos\\loggerdemo\\sloggerdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C99DCCA-F225-4FFD-B881-78B4F586CA43}|SLoggerDemo\\SLoggerDemo.csproj|solutionrelative:sloggerdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C99DCCA-F225-4FFD-B881-78B4F586CA43}|SLoggerDemo\\SLoggerDemo.csproj|c:\\users\\surya.c.urs\\source\\repos\\loggerdemo\\sloggerdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C99DCCA-F225-4FFD-B881-78B4F586CA43}|SLoggerDemo\\SLoggerDemo.csproj|solutionrelative:sloggerdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C99DCCA-F225-4FFD-B881-78B4F586CA43}|SLoggerDemo\\SLoggerDemo.csproj|c:\\users\\surya.c.urs\\source\\repos\\loggerdemo\\sloggerdemo\\sloggerdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C99DCCA-F225-4FFD-B881-78B4F586CA43}|SLoggerDemo\\SLoggerDemo.csproj|solutionrelative:sloggerdemo\\sloggerdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C99DCCA-F225-4FFD-B881-78B4F586CA43}|SLoggerDemo\\SLoggerDemo.csproj|c:\\users\\surya.c.urs\\source\\repos\\loggerdemo\\sloggerdemo\\sloggerdemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9C99DCCA-F225-4FFD-B881-78B4F586CA43}|SLoggerDemo\\SLoggerDemo.csproj|solutionrelative:sloggerdemo\\sloggerdemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C99DCCA-F225-4FFD-B881-78B4F586CA43}|SLoggerDemo\\SLoggerDemo.csproj|c:\\users\\surya.c.urs\\source\\repos\\loggerdemo\\sloggerdemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C99DCCA-F225-4FFD-B881-78B4F586CA43}|SLoggerDemo\\SLoggerDemo.csproj|solutionrelative:sloggerdemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C99DCCA-F225-4FFD-B881-78B4F586CA43}|SLoggerDemo\\SLoggerDemo.csproj|c:\\users\\surya.c.urs\\source\\repos\\loggerdemo\\sloggerdemo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C99DCCA-F225-4FFD-B881-78B4F586CA43}|SLoggerDemo\\SLoggerDemo.csproj|solutionrelative:sloggerdemo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\LoggerDemo\\SLoggerDemo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SLoggerDemo\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\LoggerDemo\\SLoggerDemo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SLoggerDemo\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T05:22:51.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\LoggerDemo\\SLoggerDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SLoggerDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\LoggerDemo\\SLoggerDemo\\Program.cs",
+              "RelativeToolTip": "SLoggerDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:50:07.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\LoggerDemo\\SLoggerDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "SLoggerDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\LoggerDemo\\SLoggerDemo\\appsettings.json",
+              "RelativeToolTip": "SLoggerDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T04:49:50.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\LoggerDemo\\SLoggerDemo\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SLoggerDemo\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\LoggerDemo\\SLoggerDemo\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SLoggerDemo\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:43:38.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SLoggerDemo.http",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\LoggerDemo\\SLoggerDemo\\SLoggerDemo.http",
+              "RelativeDocumentMoniker": "SLoggerDemo\\SLoggerDemo.http",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\LoggerDemo\\SLoggerDemo\\SLoggerDemo.http",
+              "RelativeToolTip": "SLoggerDemo\\SLoggerDemo.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-22T05:31:21.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SLoggerDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\LoggerDemo\\SLoggerDemo\\SLoggerDemo.csproj",
+              "RelativeDocumentMoniker": "SLoggerDemo\\SLoggerDemo.csproj",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\LoggerDemo\\SLoggerDemo\\SLoggerDemo.csproj",
+              "RelativeToolTip": "SLoggerDemo\\SLoggerDemo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-22T05:22:08.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\LoggerDemo\\SLoggerDemo\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SLoggerDemo\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\LoggerDemo\\SLoggerDemo\\appsettings.Development.json",
+              "RelativeToolTip": "SLoggerDemo\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T04:50:01.287Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
